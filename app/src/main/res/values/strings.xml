@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">JobsAdCheckout</string>
+
+    <string name="error_failed_api">Fetch API Failed</string>
+
+    <!-- Login page -->
+    <string name="customer_select_title">Please Choose Customer Type:</string>
+    <string name="normal_customer">Normal Customer</string>
+    <string name="unilever">Unilever</string>
+    <string name="apple">Apple</string>
+    <string name="nike">Nike</string>
+    <string name="ford">Ford</string>
+
+    <!-- Home page -->
+    <string name="add_job_ad">Make a new Job Ad</string>
+    <string name="checkout">Checkout Job</string>
+    <string name="delete_job">Delete Job</string>
+    <string name="check_out_price">Price Checkout</string>
+
+    <!-- Edit Job page -->
+    <string name="classic">Classic</string>
+    <string name="standout">Standout</string>
+    <string name="premium">Premium</string>
+    <string name="edit_job_type">Job Ad Type</string>
+    <string name="edit_job_title">Title</string>
+    <string name="edit_job_description">Job Description</string>
+    <string name="edit_job_image_upload">Image Upload</string>
+    <string name="done">Done</string>
+    <string name="job_type_needed">Job type cannot be empty</string>
+    <string name="job_title_needed">Job title cannot be empty</string>
+    <string name="job_description_needed">Job description cannot be empty</string>
+
+</resources>
